@@ -1,1 +1,1 @@
-That was a simple greeting myguy
+This chapter is about how the txt file realized that .cpp files were superior. The txt file found a .cpp file, who executed code on the txt file.
